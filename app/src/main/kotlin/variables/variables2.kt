@@ -8,7 +8,6 @@ fun main()  {
     println(message)
 
 //    val numberOfWorkers = 2000
-//    println(numberOfWorkers)
 
     val numberOfWorkers = 1999
     println(numberOfWorkers)
