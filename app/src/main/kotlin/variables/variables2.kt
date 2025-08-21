@@ -8,10 +8,10 @@ fun main() {
     println(numberOfOrders)
     println(message)
 
-//    var numberOfWorkers = 2000
+    var numberOfWorkers = 2000
+//    println(numberOfWorkers)
 
-    var numberOfWorkers = 1999
-
+    numberOfWorkers = 1999
     println(numberOfWorkers)
 
 }
