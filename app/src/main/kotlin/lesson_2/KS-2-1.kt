@@ -6,5 +6,4 @@ fun main() {
     val studentsGrades: Float = ((3 + 4 + 3 + 5) / 4f)
 
     println(studentsGrades)
-
 }
